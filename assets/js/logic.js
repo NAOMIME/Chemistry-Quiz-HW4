@@ -1,26 +1,26 @@
 // variable for questions
 var questions = [
   {
-    Question: "What is formula for density",
+    Question: "What is the formula for density",
     Answers: [
       "Density = mass/volume",
-      "Density = Weight/mass",
+      "Density = weight/mass",
       "Density = gravity*volume"
     ],
     CorrectAns: "Density = mass/volume"
   },
   {
-    Question: "Name the charge for an electron",
+    Question: "Name the charge of an electron",
     Answers: ["negative", "positive", "neutral"],
     CorrectAns: "negative"
   },
   {
-    Question: "Light-year is a unit of",
+    Question: "Light-year is a unit of _______",
     Answers: ["time", "distance", "weight"],
     CorrectAns: "distance"
   },
   {
-    Question: "The cobalt (Co) is what color",
+    Question: "The element cobalt (Co) is what color",
     Answers: ["black", "red", "blue"],
     CorrectAns: "blue"
   }
